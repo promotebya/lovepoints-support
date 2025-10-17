@@ -1,22 +1,34 @@
----
-title: Privacy Policy
----
+# Privacy Policy
 
-# LovePoints Privacy Policy
+**Last updated:** {{ site.time | date: "%Y-%m-%d" }}
 
-We collect the minimum data needed to run the app (account info and any content you add like memories, tasks, and reminders).
+LovePoints (“we”, “us”) respects your privacy. This policy explains what we collect, why, and how you can control it.
 
-**Where data lives**
-- Authentication, database, and storage: Google Firebase (Auth, Firestore, Storage).
-- Local reminders are scheduled on your device.
+## What we collect
+- **Account data:** Email address you use to sign in.
+- **App content you add:** e.g., notes, memories, tasks, and preferences.
+- **Device data for notifications:** A device/push token so we can send reminders you enable.
+- **Basic analytics/diagnostics:** Crash/error logs and aggregated usage to improve stability.
 
-**Notifications**
-- Local notifications only for reminders and nudges.
+## How we use data
+- Provide core features (sync, reminders, partner connection).
+- Keep the app secure and improve performance.
+- Communicate important changes (e.g., policy updates).
 
-**Analytics/Ads**
-- None enabled at this time and never will.
+## Where data is stored
+We use **Google Firebase** (Authentication, Firestore, Storage) as our cloud provider. Your data is processed and stored by Google Cloud/Firebase according to their terms and security standards.
 
-**Data deletion / questions**
-- Email: lovepointsapp@hotmail.com. We’ll delete your account data on request.
+## Sharing
+We do **not** sell your data. We only share with service providers that help run the app (e.g., Firebase) under strict agreements.
 
-_Last updated: 2025-10-17_
+## Data retention & deletion
+You can request deletion of your account and associated personal data at any time (see [Data Deletion Request](./data-deletion.md)). We retain data only as long as necessary for the purposes above or as required by law.
+
+## Children
+LovePoints is intended for users **13+** (or the applicable age in your region).
+
+## Your rights
+Depending on your region, you may have rights to access, correct, delete, or export your data. Contact us to exercise these rights.
+
+## Contact
+Questions? Email **[your-support-email@example.com](mailto:your-support-email@example.com)**.
