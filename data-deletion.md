@@ -2,7 +2,7 @@
 
 To delete your LovePoints account and personal data:
 
-1. Email **[your-support-email@example.com](mailto:your-support-email@example.com)** from the **same email** used in the app.
+1. Email **[lovepointsapp@hotmail.com](mailto:lovepointsapp@hotmail.com)** from the **same email** used in the app.
 2. Include: “Delete my LovePoints account”, your display name (if set), and (optional) a reason.
 3. We’ll verify ownership and delete your account and associated personal data from our systems. We will confirm by email once complete.
 
