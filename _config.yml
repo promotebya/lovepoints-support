@@ -1,2 +1,5 @@
 title: LovePoints Support
+description: Help, privacy, and contact for the LovePoints app.
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
