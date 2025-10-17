@@ -3,7 +3,7 @@
 Welcome! This page covers help, privacy, and how to reach us.
 
 ## Contact
-For support, questions, or feedback, email: **[your-support-email@example.com](mailto:lovepointsapp@hotmail.com)**  
+For support, questions, or feedback, email: **[lovepointsapp@hotmail.com](mailto:lovepointsapp@hotmail.com)**  
 (Please write from the same email used in the app so we can verify your account.)
 
 ## Quick help
