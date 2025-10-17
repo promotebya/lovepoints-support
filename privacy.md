@@ -31,4 +31,4 @@ LovePoints is intended for users **13+** (or the applicable age in your region).
 Depending on your region, you may have rights to access, correct, delete, or export your data. Contact us to exercise these rights.
 
 ## Contact
-Questions? Email **[your-support-email@example.com](mailto:your-support-email@example.com)**.
+Questions? Email **[lovepointsapp@hotmail.com](mailto:lovepointsapp@hotmail.com)**.
