@@ -1,17 +1,19 @@
----
-title: LovePoints Support
----
+# LovePoints — Support
 
-# LovePoints Support
+Welcome! This page covers help, privacy, and how to reach us.
 
-Need help? We’re here.
-
-- 📬 Email: lovepointsapp@hotmail.com
-- 🐞 Found a bug or have feedback? Email us with screenshots if possible.
+## Contact
+For support, questions, or feedback, email: **[your-support-email@example.com](mailto:your-support-email@example.com)**  
+(Please write from the same email used in the app so we can verify your account.)
 
 ## Quick help
-- **Pair with your partner:** Settings → Pairing → Scan QR or Enter Code
-- **Reminders:** Set title + date + time. We remind you 7 days before, 1 day before, and on the day.
+- **Can’t log in?** Check your email/password and try again. If you forgot your password, use “Forgot password” in the app.
+- **Notifications not arriving?** Ensure notifications are enabled for LovePoints in iOS Settings → Notifications.
+- **Report a bug:** Email us with your device model, iOS version, and steps to reproduce.
 
-## Privacy
-Read the full policy → [/privacy](./privacy)
+## Privacy & legal
+- [Privacy Policy](./privacy.md)
+- [Data Deletion Request](./data-deletion.md) *(how to erase your data)*
+- [Terms of Use](./terms.md)
+
+_Last updated: {{ site.time | date: "%Y-%m-%d" }}_
