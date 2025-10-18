@@ -35,5 +35,5 @@ We may ask you to verify your email or respond from the **registered email** to 
 - You can **cancel** the request until deletion begins by replying to our confirmation email.
 
 ## Contact
-- Email: **support@lovepoints.app**  
+- Email: **lovepointsapp@hotmail.com**  
 - Developer: **LovePoints** (PromoteByA)
