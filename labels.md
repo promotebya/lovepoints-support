@@ -6,9 +6,9 @@ permalink: /labels
 
 **Trading name:** LovePointsApp  
 **Legal name:** Andrey Kunts (sole proprietor)  
-**Address:** [F-. F-. Runge Str. 6]  
-**Country:** [Germany]  
-**Email:** [lovepointsapp@hotmail.com]  
+**Address:** F-. F-. Runge Str. 6 
+**Country:** Germany  
+**Email:** lovepointsapp@hotmail.com  
 **Website:** https://promotebya.github.io/lovepoints-support/
 
 **Nature of service:** Consumer mobile app with optional auto-renewing subscription.  
